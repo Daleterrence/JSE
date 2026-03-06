@@ -1,6 +1,6 @@
-### Note
+## Note
 
-This is **not** my addon, this was originally made by a user by the name of Nalfey on the FFXIAH forums, who then later removed all of their addons due to some unpleasantness that is not worth getting into here. I'm providing this addon as an archive of their work, as it was beloved by those who used it, and there is a strong desire for it to be available *somewhere*. I probably won't be making any changes to it unless there's a significant bug or something that needs fixing. 
+This addon was not created by me, all credit goes to Nalfey for their hard work, I am simply providing a place for people to download it from. This has been done with Nalfey's permission.
 
 # JSE
 JSE (Job Specific Equipment) is an addon for FFXI that tracks the AF, Relic, and Empyrean gear you have and the next available upgrades. 
@@ -25,6 +25,24 @@ It looks for the NQ, +1, +2, +3, +4 versions that you have for a specific job an
 
 **`//jsehelp`**
 - Displays the available commands
+
+## Examples ##
+
+**/jse af WHM** - Displays needed materials to upgrade WHM Artifact armor
+![jse_af_WHM](https://why-are-you-looking-at-an-image-url.dtrm.uk/img/nalfey-addons/JSE/jse1.png)
+
+**//jsetrack af WHM** - Displays results in a draggable window
+![jsetrack_af_WHM](https://why-are-you-looking-at-an-image-url.dtrm.uk/img/nalfey-addons/JSE/jse2.png)
+
+**//jseall af PUP** - Checks for P. Cards on all your mules 
+![jseall_af_PUP](https://why-are-you-looking-at-an-image-url.dtrm.uk/img/nalfey-addons/JSE/jse3.png)
+
+**//jsecurrency** - Displays relevent currencies
+![jsecurrency](https://why-are-you-looking-at-an-image-url.dtrm.uk/img/nalfey-addons/JSE/jse4.png)
+
+### v1.11
+* Syntax fix for some item name contractions.
+* Extra tracking window code split into a separate file.
 
 ### v1.10
 * Added a new command //jsetrack that displays the results in a dragable window. 
