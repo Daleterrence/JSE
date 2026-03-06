@@ -13,7 +13,7 @@ return {
                 ["+2"] = {
                     {name = "P. RUN Card", count = 4},
                     {name = "Niobium Ore", count = 1},
-                    {name = "Emperor Arthro's Shell", count = 1}
+                    {name = "Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
                     {name = "P. RUN Card", count = 12},
@@ -91,7 +91,7 @@ return {
                 ["+2"] = {
                     {name = "P. RUN Card", count = 4},
                     {name = "Niobium Ore", count = 1},
-                    {name = "Warblade Beak's Hide", count = 1}
+                    {name = "Warblade's Hide", count = 1}
                 },
                 ["+3"] = {
                     {name = "P. RUN Card", count = 12},
@@ -117,7 +117,7 @@ return {
                 ["+2"] = {
                     {name = "P. RUN Card", count = 3},
                     {name = "Niobium Ore", count = 1},
-                    {name = "Abyssdiver's Feather", count = 1}
+                    {name = "Abyssdiver Feather", count = 1}
                 },
                 ["+3"] = {
                     {name = "P. RUN Card", count = 9},

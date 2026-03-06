@@ -13,7 +13,7 @@ return {
                 ["+2"] = {
                     {name = "P. PLD Card", count = 4},
                     {name = "Ruthenium Ore", count = 1},
-                    {name = "Emperor Arthro's Shell", count = 1}
+                    {name = "Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
                     {name = "P. PLD Card", count = 12},
@@ -68,7 +68,7 @@ return {
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. PLD Card", count = 35},
+                    {name = "P. PLD Card", count = 9},
                     {name = "Kin's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -91,7 +91,7 @@ return {
                 ["+2"] = {
                     {name = "P. PLD Card", count = 4},
                     {name = "Ruthenium Ore", count = 1},
-                    {name = "Warblade Beak's Hide", count = 1}
+                    {name = "Warblade's Hide", count = 1}
                 },
                 ["+3"] = {
                     {name = "P. PLD Card", count = 12},
@@ -117,10 +117,10 @@ return {
                 ["+2"] = {
                     {name = "P. PLD Card", count = 3},
                     {name = "Ruthenium Ore", count = 1},
-                    {name = "Abyssdiver's Feather", count = 1}
+                    {name = "Abyssdiver Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. PLD Card", count = 30},
+                    {name = "P. PLD Card", count = 9},
                     {name = "Kin's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
